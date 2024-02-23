@@ -1,0 +1,16 @@
+Proveedores de implementos para armar tu impresora3d-CNC
+Si conoces algun otro, por favor agregalo
+
+In this file can you find suppliers for yo print3d
+If you konw any other contact tell us please 
+
+
+Colombia
+    Dinastía tecnológica:
+        https://dinastiatecnologica.com/producto/impresora-3-d-kit-profe-garcia/
+
+    Merkatronix
+        https://www.merkatronix.com/index.php?id_product=1188&controller=product&id_lang=4
+        Ojo: en este kit no se incluye el extrusor, ni el arduino mega ni la shield Ramps 1.4
+        sirve para construir toda la cnc y puedes agregarlos en el carrito de compras
+        https://www.merkatronix.com/index.php?id_product=2285&controller=product&id_lang=4&search_query=Extrusor+Hotend+E3d-v6&results=51
