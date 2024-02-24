@@ -1,0 +1,12 @@
+vídeo 8 https://www.youtube.com/watch?v=1Vkq4rFA8oc
+
+Desde arduino 1.6.10
+en programa/incluir fichero ir a la carpeta que contiene el zip GRBL-Arduino-Library-master
+
+
+Desde la lupa
+$ ayuda
+$$ cofig inicial / refrescar 
+
+cambiar config
+$0=200    eje x
